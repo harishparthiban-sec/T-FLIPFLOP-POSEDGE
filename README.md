@@ -44,4 +44,5 @@ From the above characteristic table, we can directly write the next state equati
 <img width="1657" height="243" alt="image" src="https://github.com/user-attachments/assets/635b2445-ca0b-49d6-9974-1a33ef471d9f" />
 
 **RESULTS**
+
 Thus  T flipflop has been implemented using verilog and validated their functionality using their functional tables successfully.
